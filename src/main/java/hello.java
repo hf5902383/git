@@ -7,5 +7,6 @@ public class hello {
         System.out.println("天长地久有时尽master");
         System.out.println("天长地久有时尽hotfix");
         System.out.println("此恨绵绵无绝期");
+        System.out.println("长恨歌");
     }
 }
