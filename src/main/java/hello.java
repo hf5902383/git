@@ -3,5 +3,6 @@ public class hello {
         System.out.println("七月七日长生殿");
         System.out.println("夜半无人私语时");
         System.out.println("在天愿作比翼鸟");
+        System.out.println("在地愿为连理枝");
     }
 }
