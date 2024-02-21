@@ -5,5 +5,6 @@ public class hello {
         System.out.println("在天愿作比翼鸟");
         System.out.println("在地愿为连理枝");
         System.out.println("天长地久有时尽master");
+        System.out.println("天长地久有时尽hotfix");
     }
 }
